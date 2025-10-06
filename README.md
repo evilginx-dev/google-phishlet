@@ -3,4 +3,4 @@
 
 
 
-![alt text](https://i.ibb.co/fVbkq7T2/evilginx-mod.png)
+![alt text](https://raw.githubusercontent.com/infect10n/google-phishlet/refs/heads/main/evilginx_mod.png)
