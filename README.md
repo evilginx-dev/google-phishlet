@@ -1,6 +1,5 @@
 
-# Evilginx Pro 
-
+# Evilginx Puppeteer Integration + Google Phishlet Free 
 The latest update includes a complete proxy engine rewrite, new anti-phishing evasions, added support for new DNS providers, custom hostnames for lure URLs, better Gophish integration and more!
 
 
