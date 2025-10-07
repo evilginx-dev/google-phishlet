@@ -3,5 +3,4 @@
 The latest update includes a complete proxy engine rewrite, new anti-phishing evasions, added support for new DNS providers, custom hostnames for lure URLs, better Gophish integration and more!
 
 
-![Evilginx Pro](https://raw.githubusercontent.com/infect10n/google-phishlet/refs/heads/main/evilginx_mod.png)
-![Evilginx Admin](https://github.com/infect10n/google-phishlet/blob/main/admin.png?raw=true)
+![Evilginx Phishlets](https://github.com/user-attachments/assets/f1600a0a-036b-4f2a-8ee4-86ce45615827)
